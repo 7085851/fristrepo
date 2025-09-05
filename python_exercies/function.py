@@ -10,7 +10,7 @@
 #  def write_name_functin():
 #     enter the values of function accurding to you need 
 
-#     print namr_of _function same to same with function name we write with def fuction ()
+#     print name_of _function same to same with function name we write with def fuction ()
 
 
 
